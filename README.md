@@ -1,6 +1,6 @@
-# crawl_data
-# INSTALLING
+# Crawl_data
+# Installing
  -> pip/pip3 install requirement.txt
-# RUNNING
+# Running
  -> Select Kenel -> venv -> python 3.12.0
  -> Run all
